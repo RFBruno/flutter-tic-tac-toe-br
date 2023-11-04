@@ -1,6 +1,6 @@
 ![Logo of the project](https://firebasestorage.googleapis.com/v0/b/portfolio-a7442.appspot.com/o/profile%20github%20images%2Fgithubcapa.png?alt=media&token=091ec4e2-aa66-4b89-a768-6c1a026a262e)
 
-## Finmanager
+## Tic-Tac-Toe
 
 This is a flutter app, developed for practice.
 
